@@ -23,6 +23,7 @@
     "@angular/core": "^6.0.5",
     "@angular/platform-browser": "^6.0.5",
     "@angular/platform-browser-dynamic": "^6.0.5",
+    "angular-gridster2": "^6.0.5",
     "rxjs": "^6.2.1"
   },
   "devDependencies": {
