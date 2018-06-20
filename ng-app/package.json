@@ -17,7 +17,14 @@
     "test": "jest",
     "test.watch": "jest --watch"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@angular/common": "^6.0.5",
+    "@angular/compiler": "^6.0.5",
+    "@angular/core": "^6.0.5",
+    "@angular/platform-browser": "^6.0.5",
+    "@angular/platform-browser-dynamic": "^6.0.5",
+    "rxjs": "^6.2.1"
+  },
   "devDependencies": {
     "@stencil/core": "^0.9.1",
     "@stencil/dev-server": "latest",
